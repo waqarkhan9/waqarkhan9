@@ -1,4 +1,4 @@
--### 👋 Hi, I’m waqarAhmed khan
+### 👋 Hi, I’m waqarAhmed khan
 
 I am a Software Engineer based in Manchester UK. 
 
