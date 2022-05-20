@@ -5,9 +5,7 @@ I am a Software Engineer based in Manchester UK.
 
 ### Current Activities 
 
-I am trying to improve my React coding skills,
-
-
+I am trying to improve my React coding skills :)
 
 <!---
 waqarkhan9/waqarkhan9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
